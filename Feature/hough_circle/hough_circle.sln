@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "hough_circle", "hough_circle\hough_circle.vcproj", "{24EB0818-9A10-4DAC-8F6B-4051CAC2BACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24EB0818-9A10-4DAC-8F6B-4051CAC2BACB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{24EB0818-9A10-4DAC-8F6B-4051CAC2BACB}.Debug|Win32.Build.0 = Debug|Win32
+		{24EB0818-9A10-4DAC-8F6B-4051CAC2BACB}.Release|Win32.ActiveCfg = Release|Win32
+		{24EB0818-9A10-4DAC-8F6B-4051CAC2BACB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
